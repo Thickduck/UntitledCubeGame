@@ -3,6 +3,8 @@ using System;
 
 public class AudioManager : MonoBehaviour
 {
+    // Author of this code is "ThickduckPlayz" ;)
+    
     // Start is called before the first frame update
 
     public Sound[] sounds;
